@@ -9,4 +9,4 @@
 > 📈 AlphaStats.js (Lead Dev)  
 ### Projects in the Making  
 > 📄 Codebusters C (Lead Dev)  
-> ⚔️ Combat Cubes (Personal Project)  
+> ⚔️ Combat Cubes (Lead Dev)  
