@@ -10,3 +10,4 @@
 ### Projects in the Making  
 > 📄 Codebusters C (Lead Dev)  
 > ⚔️ Combat Cubes (Lead Dev)  
+> 📝 QuizQuest (Front-End Dev)
