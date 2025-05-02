@@ -7,7 +7,7 @@
 <div class="center-container">
 <h3 class="aboutMe">My Projects </h3>  
 <div class="project-container">
-<a class="projects" href=""><p class="aboutMe">🌐 LHSCC Website (Lead Dev)  </p></a>
+<a class="projects" href="largo.hackclub.com"><p class="aboutMe">🌐 LHSCC Website (Lead Dev)  </p></a>
 <a class="projects" href=""><p class="aboutMe">📈 AlphaStats.js (Lead Dev)  </p></a>
 </div>
 </div>
