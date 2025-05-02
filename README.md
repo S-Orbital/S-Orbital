@@ -8,6 +8,6 @@
 <p class="aboutMe">🌐 LHSCC Website (Lead Dev)  </p>
 <p class="aboutMe">📈 AlphaStats.js (Lead Dev)  </p>
 <h3 class="aboutMe">Projects in the Making </h3>  
-<a class="" href=""><p class="aboutMe">📄 Codebusters C (Lead Dev)  </p></a>
+<a class="projects" href=""><p class="aboutMe">📄 Codebusters C (Lead Dev)  </p></a>
 <p class="aboutMe">⚔️ Combat Cubes (Lead Dev)  </p>
 <p class="aboutMe">📝 QuizQuest (Front-End Dev) </p>
