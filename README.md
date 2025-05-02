@@ -5,9 +5,13 @@
 <p class="aboutMe">👑 Current president of Largo High School's Coding Club (2024-2025).  </p>
 <p class="aboutMe">🎯 My goal is to obtain the NMSQT scholarship and get into a BS/MD Program. </p> 
 <h3 class="aboutMe">My Projects </h3>  
-<p class="aboutMe">🌐 LHSCC Website (Lead Dev)  </p>
-<p class="aboutMe">📈 AlphaStats.js (Lead Dev)  </p>
+<div class="project-container">
+<a class="projects" href=""><p class="aboutMe">🌐 LHSCC Website (Lead Dev)  </p></a>
+<a class="projects" href=""><p class="aboutMe">📈 AlphaStats.js (Lead Dev)  </p></a>
+</div>
 <h3 class="aboutMe">Projects in the Making </h3>  
+<div class="project-container">
 <a class="projects" href=""><p class="aboutMe">📄 Codebusters C (Lead Dev)  </p></a>
-<p class="aboutMe">⚔️ Combat Cubes (Lead Dev)  </p>
-<p class="aboutMe">📝 QuizQuest (Front-End Dev) </p>
+<a class="projects" href=""><p class="aboutMe">⚔️ Combat Cubes (Lead Dev)  </p></a>
+<a class="projects" href=""><p class="aboutMe">📝 QuizQuest (Front-End Dev) </p></a>
+</div>
