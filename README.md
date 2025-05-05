@@ -19,5 +19,5 @@
 <a class="projects" href=""><p class="aboutMe">📝 QuizQuest (Front-End Dev) </p></a>
 </div>
 </div>
-![S-Orbital's Stats](https://github-readme-stats.vercel.app/api?username=S-Orbital&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=S-Orbital&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <a href="https://github-readme-stats.vercel.app/api?username=S-Orbital&theme=github-dark&show_icons=true&hide_border=true&count_private=true">Ermmm</a>
