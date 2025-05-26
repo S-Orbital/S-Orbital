@@ -8,7 +8,9 @@
 <h3 class="aboutMe">My Projects </h3>  
 <div class="project-container">
 <a class="projects" href="largo.hackclub.com"><p class="aboutMe">🌐 LHSCC Website (Lead Dev)  </p></a>
-<a class="projects" href=""><p class="aboutMe">📈 AlphaStats.js (Lead Dev)  </p></a>
+<a class="projects" href="/discord-bot.html"><p class="aboutMe">📈 AlphaStats.js (Lead Dev)  </p></a>
+<a class="projects" href=""><p class="aboutMe">🤖 The S-Bot (Lead Dev)  </p></a>
+
 </div>
 </div>
 <div class="center-container">
@@ -19,5 +21,3 @@
 <a class="projects" href=""><p class="aboutMe">📝 QuizQuest (Front-End Dev) </p></a>
 </div>
 </div>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=S-Orbital&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<a href="https://github-readme-stats.vercel.app/api?username=S-Orbital&theme=github-dark&show_icons=true&hide_border=true&count_private=true">Ermmm</a>
